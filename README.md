@@ -9,5 +9,5 @@ PimubiWeb/PimubiWeb is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-Hola este es mi primer repositorio, es simplemente una prueba
+Hola este es mi primer repositorio, es simplemente una prueba.
 Me llamo Pablo y me encanta los perros.
